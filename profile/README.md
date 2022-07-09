@@ -5,6 +5,10 @@
 
 ### Hosted Sites
 
+[Analytics](https://analytics.yantznet.com)
+
 [YantzNet](https://yantznet.com)
+
 [YantzDev](https://yantz.dev)
+
 [iYantz](https://iyantz.com)
